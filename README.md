@@ -1,16 +1,9 @@
-<div align="center">
-    <img src="https://raw.githubusercontent.com/SimGus/chrome-addon-v3-starter/master/logo/logo-128.png"/>
-    <h1>Chrome Extension v3 Starter</h1>
-    <h3>A minimal template of a Chrome v3 addon</h3>
-</div>
+# Metaverse Unplug
 
-This repository contains a minimal Chrome/Chromium extension that uses the newest version of the manifest (v3).
-
-You can use it as a basis to develop an extension.
-It can also give you more insights about how to turn a v2 extension to v3.
-
-In other words, this is a **working, installable v3 extension** example meant for you to **jumpstart** the development of your own extension.
-
+Not sure how we’ve let a slowly dying behemoth’s rebrand accompanied by a demo video with 90’s graphics persuade us
+about the Metaverse, but here we are! If, like me, you’re quite bored of the relentless Tulipmania hypetrain, I’ve built
+a chrome extension that will search and replace “Metaverse” with “Dystopian Nightmare” just to remind you where this 
+idea came from and the bleak future it seeks to create.
 
 ## Installation
 - **Fork** this repo, then **clone your forked repo locally**. If you don't have a github account, you can simply download a zip of the repo and unzip it on your computer.
